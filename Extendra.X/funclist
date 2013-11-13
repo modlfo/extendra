@@ -1,0 +1,18 @@
+_setPinType: CODE, 1398 0 123
+_processPin: CODE, 41 0 325
+_initializePins: CODE, 1978 0 56
+_ConfigureOscillator: CODE, 4036 0 6
+_main: CODE, 4067 0 29
+_getPinValue: CODE, 1271 0 127
+i1_pinMode: CODE, 1108 0 163
+_processCommand: CODE, 587 0 193
+_setPinValue: CODE, 1826 0 77
+_InitApp: CODE, 1903 0 75
+_digitalRead: CODE, 366 0 221
+_get_diff_scaled: CODE, 1637 0 100
+_digitalWrite: CODE, 780 0 164
+_isr: CODE, 4 0 34
+_setAnalog: CODE, 1521 0 116
+_pinMode: CODE, 944 0 164
+_analogRead: CODE, 1737 0 89
+Total: 2062
